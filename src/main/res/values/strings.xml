@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Button Drive</string>
+    <string name="ari_api_key">eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiJ9.eyJ1c2VyX3VzZXJuYW1lIjoiamFpbnZpc2hlc2g5MSIsInVzZXJfZW1haWwiOiJqYWludmlzaGVzaDkxQGdtYWlsLmNvbSIsIm9yZGVyX2RhdGUiOiIyMDE0LTA3LTMwIDEwOjIyOjU5Iiwib3JkZXJfaWQiOjEyMzEsIm9yZGVyX2xpbmUiOjAsImxpY2Vuc2UiOiJwcm8iLCJ2ZXJzaW9uIjoxfQ.L5L8HIMWBhmBrV8QxMKSyNbhUIQvdf1VCTVSqv3haWjZz_qu-ONzRjiVOd-EX0UYmYKjtLq0CUubZiNdb6b-9Kxh4CVmP-Rc5mVBSYIJf6xyNaaKrjk1nbhHUM9XZC8mCTBZlfjjvB3mzREpbQHtAZEpzjwZTdUpe_PFZy40Zjs</string>
+</resources>
